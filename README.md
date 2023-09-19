@@ -46,7 +46,21 @@ In summary, I'm skilled in using Jupyter Notebook, MySQL, Tableau, and Excel for
 E-Comm Explora is a data analysis project focused on exploring and understanding the customer-to-customer (C2C) business model in the e-commerce industry. The project utilizes a dataset containing user information and behavior on an e-commerce platform. The goal is to analyze user data and gain valuable insights to enhance the business perspective.
 
 Date : 13th March,2023
+
 #### Technologies Used:
 - SQL (MySQL)
-  
 [Link to the project repository](https://github.com/VamsiPrasad01/E-Commerce-Explora-SQL-)
+
+### Project Title: Vehicle Insurance EDA
+
+**Description:** Vehicle Insurance EDA is an exploratory data analysis project that aims to uncover insights from a dataset related to vehicle insurance. The dataset consists of two main tables, "customer_details" and "customer_policy_details," containing information about customers and their insurance policies. The project's objective is to perform data cleaning, outlier detection, and analysis to provide valuable insights for decision-making in the insurance company.
+
+**Date:** September 19, 2023
+
+#### Technologies Used:
+- Python
+- Pandas
+- NumPy
+[Link to the project repository](https://github.com/VamsiPrasad01/EDA-on-Vehicle-Insurance-Dataset)
+
+
