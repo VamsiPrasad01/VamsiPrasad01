@@ -5,7 +5,7 @@
 
 **Objectives**
 
-I'm a passionate data analyst with 1 year of experience in exploring and visualizing data to gain valuable insights. I love working with datasets and extracting meaningful information to drive data-informed decisions.
+I'm a passionate data analyst with 2 year of experience in exploring and visualizing data to gain valuable insights. I love working with datasets and extracting meaningful information to drive data-informed decisions.
 
 As a data analyst, I love learning and working hard. I'm eager to use my skills and experience to help any organization that uses data to make decisions. I know how to use Tableau, Microsoft Excel, Python, and MySQL to analyze data, even when it's complicated.
 
