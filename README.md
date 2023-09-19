@@ -49,6 +49,7 @@ Date : 13th March,2023
 
 #### Technologies Used:
 - SQL (MySQL)
+
 [Link to the project repository](https://github.com/VamsiPrasad01/E-Commerce-Explora-SQL-)
 
 ### Project Title: Vehicle Insurance EDA
@@ -61,6 +62,7 @@ Date : 13th March,2023
 - Python
 - Pandas
 - NumPy
+
 [Link to the project repository](https://github.com/VamsiPrasad01/EDA-on-Vehicle-Insurance-Dataset)
 
 
